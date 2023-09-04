@@ -24,7 +24,17 @@ This Java project contains classes to work with geometric shapes, specifically c
 To get started, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/YourGithubUsername/JavaGeometricShapes.git
+git clone git@github.com:rudyorahin/Geometric-Shapes---OOP.git
+```
+
+
+
+Navigate to the src/main/java/edu/gcccd/csis directory to find the source files.
+
+## Usage
+
+### Circle Class
+
 
 
 

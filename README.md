@@ -34,7 +34,7 @@ Navigate to the src/main/java/edu/gcccd/csis directory to find the source files.
 ## Usage
 
 ### Circle Class
-```
+```java
 Circle circle = new Circle(5, "Red");  
 System.out.println("Color: " + circle.getColor());  
 System.out.println("Radius: " + circle.getRadius());  
@@ -44,7 +44,7 @@ System.out.println("Circumference: " + circle.getCircumference());
 
 
 ### Rectangle Class
-```
+```java
 Rectangle rectangle = new Rectangle(5, 5);  
 System.out.println("Width: " + rectangle.getWidth());  
 System.out.println("Height: " + rectangle.getHeight());  
@@ -56,7 +56,7 @@ System.out.println("Is Square: " + rectangle.isSquare());
 
 
 ### Container Class
-```
+```java
 Container container = new Container();  
 container.setCircle(circle);  
 container.setRectangle(rectangle);  
